@@ -10,6 +10,6 @@ public class FirstController {
 
     @GetMapping("endpoint")
     public String firstEndpoint() {
-        return "Hello World";
+        return "Hello World !";
     }
 }
